@@ -1,2 +1,8 @@
+.env
+
 mvp.docx
+
 .venv/
+
+avismboa/settings/dev.py
+avismboa/settings/prod.py
